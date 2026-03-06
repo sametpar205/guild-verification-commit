@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-06T01:29:36.210Z
-Commit: Add multi-language support
+Timestamp: 2026-03-06T01:29:48.850Z
+Commit: Fix memory leak in event handlers
